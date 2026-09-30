@@ -45,7 +45,7 @@ Pour déterminer si l'actif doit tourner ou non, le script calcule la marge nett
 
 ```text
 ├── DATA/                  # Données brutes (Spot, Conso, Gaz TTF, Carbone)
-├── figures/               # Graphiques générés (CSS temporel, Merit order, Sensibilité)
+├── Graphique.png          # Graphiques générés
 ├── ccgt_analysis.py       # Script Python de calcul et visualisation
 ├── requirements.txt       # pandas, matplotlib
 └── README.md
